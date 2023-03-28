@@ -1,0 +1,28 @@
+p {
+    color: rose;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    color: lightblue;
+    font-size: 15px;
+    background-color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+span {
+    color: red;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/* para llamar por clases */
+.parrafo {
+    color:red;
+}
+
+#texto {
+ color:orange;
+ font-size: 25px;
+ font-family: Arial
+}
