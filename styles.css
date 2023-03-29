@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 p {
     color: rose;
     font-size: 25px;
@@ -26,3 +27,16 @@ span {
  font-size: 25px;
  font-family: Arial
 }
+=======
+body {
+    font-style:oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: blueviolet;
+}
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aqua;
+    border-color: red;
+    padding: 15px;
+}
+>>>>>>> e9aa472 (agregado29_3)
